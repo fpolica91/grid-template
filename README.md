@@ -1,2 +1,2 @@
-# grid-template
+# grid-layout
 Created with CodeSandbox
